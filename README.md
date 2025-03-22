@@ -1,1 +1,1 @@
-Carbon - the backbone of organic chemistry
+Carbon - the backbone of life
