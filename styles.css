@@ -2,6 +2,12 @@
     list-style: none;
 }
 .body{
-    background-color: black;
+background-size: cover;
+background-image: url(./img/pexels-soakedinnirvana-2646237.jpg);
+
+}
+
+.list-item{
+    color: rgb(221, 221, 221);
 }
 
