@@ -2,9 +2,12 @@
     list-style: none;
 }
 .body{
-background-size: cover;
-background-image: url(./img/pexels-soakedinnirvana-2646237.jpg);
+/* background-size: cover;
+background-image: url(./img/pexels-soakedinnirvana-2646237.jpg); */
 
+    background-image: url(./img/pexels-soakedinnirvana-2646237.jpg), linear-gradient(rgba(0,0,0,0.854),rgba(0, 0, 0, 0.854));
+    background-blend-mode: overlay;
+    background-size: cover;
 }
 
 .list-item{
