@@ -14,7 +14,20 @@ background-image: url(./img/pexels-soakedinnirvana-2646237.jpg); */
     color: rgb(221, 221, 221);
 }
 
+.header-list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+
 .header-btn{
-    
+   background-color: #ffffff00; 
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+   color: aliceblue;
 }
 
