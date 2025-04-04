@@ -19,6 +19,7 @@ background-image: url(./img/pexels-soakedinnirvana-2646237.jpg); */
     display: flex;
     justify-content: space-between;
     padding-left: 0px;
+
 }
 
 .header-btn{
@@ -29,6 +30,17 @@ background-image: url(./img/pexels-soakedinnirvana-2646237.jpg); */
 	cursor: pointer;
 	outline: inherit;
    color: aliceblue;
+}
+
+.landing{
+    height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing-div{
+    width: 80%;
 }
 
 .landing-main{
